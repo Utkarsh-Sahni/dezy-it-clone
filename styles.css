@@ -293,3 +293,6 @@ section h5 {
     
 }
 
+.underline {
+    border: solid 2px rgb(182, 121, 201);
+}
