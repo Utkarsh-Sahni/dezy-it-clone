@@ -1,0 +1,14 @@
+{
+  "name": "dezy-it",
+  "version": "1.0.0",
+  "description": "A front end UX/UI design of Dezy it website",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Utkarsh Sahni",
+  "license": "ISC",
+  "dependencies": {
+    "normalize.css": "^8.0.1"
+  }
+}
